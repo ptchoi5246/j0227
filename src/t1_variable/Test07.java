@@ -1,7 +1,7 @@
 package t1_variable;
 
 // 자동 타입변환
-public class Test7 {
+public class Test07 {
 	public static void main(String[] args) {
 		int su1 = 100;
 		double su2 = 3.14;

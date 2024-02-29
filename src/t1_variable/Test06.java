@@ -1,6 +1,6 @@
 package t1_variable;
 
-public class Test6 {
+public class Test06 {
 	public static void main(String[] args) {
 		String name, job, address, sign;
 		

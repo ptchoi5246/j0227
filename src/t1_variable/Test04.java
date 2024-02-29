@@ -1,7 +1,7 @@
 package t1_variable;
 
 // 실수 자료형(float(4Byte), double(8Byte, 기본))
-public class Test4 {
+public class Test04 {
 	public static void main(String[] args) {
 		double dd1, dd2;
 		dd1 = 3.141592;

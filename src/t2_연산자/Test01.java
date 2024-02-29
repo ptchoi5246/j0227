@@ -1,6 +1,6 @@
 package t2_연산자;
 
-public class Test1 {
+public class Test01 {
 	public static void main(String[] args) {
 		int su = 0;
 		System.out.println("1.su : " + su);

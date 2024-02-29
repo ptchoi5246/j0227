@@ -1,7 +1,7 @@
 package t1_variable;
 
 // 정수형 타입(byte, char, short, int, long)
-public class Test3 {
+public class Test03 {
 	public static void main(String[] args) {
 		byte bb1, bb2;
 		bb1 = 127;

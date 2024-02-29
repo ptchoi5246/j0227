@@ -1,7 +1,7 @@
 package t1_variable;
 
 // 강제 타입 변환 (casting)
-public class Test8 {
+public class Test08 {
 	public static void main(String[] args) {
 		double su1 = 3.14;
 		int res;

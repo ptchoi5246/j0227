@@ -1,7 +1,7 @@
 package t1_variable;
 
 // 논리형 자료 표현(boolean) : 참, 거짓
-public class Test5 {
+public class Test05 {
 	public static void main(String[] args) {
 		boolean bb1, bb2;
 		

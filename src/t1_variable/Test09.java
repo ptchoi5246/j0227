@@ -1,6 +1,6 @@
 package t1_variable;
 
-public class Test9 {
+public class Test09 {
 	public static void main(String[] args) {
 		String str1 = "안녕";
 		String str2 = "하세요";

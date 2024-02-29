@@ -3,7 +3,7 @@ package t3_제어문;
 import java.util.Scanner;
 
 //점수가 60점 이상이면 '합격', 미만이면 '불합격' 처리하시오.
-public class Test2_p {
+public class Test02a {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

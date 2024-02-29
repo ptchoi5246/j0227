@@ -1,6 +1,6 @@
 package t1_variable;
 
-public class Test2 {
+public class Test02 {
 	public static void main(String[] args) { //void : 리턴 타입, 0 
 		int a1 = 10;
 		int a2 = 010;

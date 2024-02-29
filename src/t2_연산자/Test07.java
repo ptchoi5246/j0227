@@ -3,7 +3,7 @@ package t2_연산자;
 import java.util.Scanner;
 
 //점수가 90점 이상은 'A', 80점 이상은 'B', 70점 이상은 'C', 60점 이상은 'D', 60점 미만은 'F 학점으로 출력하시오
-public class Test7 {
+public class Test07 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in); // 객체 생성
 		// sc : class 변수

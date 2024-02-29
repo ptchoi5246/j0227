@@ -3,7 +3,7 @@ package t3_제어문;
 import java.util.Scanner;
 
 //점수가 60점 이상이면 '합격', 미만이면 '불합격' 처리하시오.
-public class Test1 {
+public class Test02 {
 	public static void main(String[] args) {
 		Scanner sc  = new Scanner(System.in);
 		
@@ -15,6 +15,9 @@ public class Test1 {
 		
 		if (jumsu >= 60) {
 			res = "합격";	
+		}
+		else {
+			res = "불합격";
 		}
 		System.out.println("점수 "+jumsu+"은 "+res+" 입니다.");
 		
